@@ -1,5 +1,5 @@
 # Ciclovias-Peru
-ACIPER brinda al público información sobre las ciclovías en el Perú.
+Debido a la emergencia sanitaria por el COVID19 es importante implementar una red de ciclovías amplías  para destuburizar el transporte público y así cumplir con el principio de distanciamiento social. Por esto ACIPER brinda al público información sobre las ciclovías en el Perú.
 
 En el archivo llamado Ciclovía existentes Lima podran visualizar y trabajar sobre las ciclovías existentes en Lima mediante Google Earth o cualquier otro software GIS.
 
