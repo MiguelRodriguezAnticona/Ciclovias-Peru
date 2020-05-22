@@ -1,7 +1,7 @@
 # Ciclovias-Peru
 ACIPER brinda al público información sobre las ciclovías en el Perú.
 
-En el archivo llamado Ciclovía_Lima en formato sph pueden abrirlo desde Google Earth o cualquier otro software GIS y podrán disponer del mapa de Lima con las ciclovías de Lima existentes.
+En el archivo llamado Ciclovía existentes Lima podran visualizar y trabajar sobre las ciclovías existentes en Lima mediante Google Earth o cualquier otro software GIS.
 
 En el siguiente enlace encontrarán el Taller I de trazado de ciclovías con Google Earth realizado por ACIPER ---> shorturl.at/amuY5
 
