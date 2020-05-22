@@ -3,7 +3,7 @@ Debido a la emergencia sanitaria por el COVID19 es importante implementar una re
 
 En el archivo llamado Ciclovía existentes Lima podrán visualizar y trabajar sobre las ciclovías existentes en Lima mediante Google Earth o cualquier otro software GIS.
 
-En el siguiente enlace encontrarán el Taller I de trazado de ciclovías con Google Earth realizado por ACIPER ---> shorturl.at/amuY5
+En el siguiente enlace encontrarán el Taller I de trazado de ciclovías con Google Earth realizado por ACIPER ---> shorturl.at/nqFL1
 
 En el siguiente enlace encontrarán el resultado de las encuestas realizadas en el Perú sobre los factores positivos y negativos sobre la elección de su ruta para viajar en bicicleta ---> shorturl.at/mDMPY
 
