@@ -9,6 +9,6 @@ En el siguiente enlace encontrarán el resultado de las encuestas realizadas en 
 
 Proyecto Ciclovías - Chimbote es una propuesta colaborativa de una red de ciclovías en Chimbote que cualquiera puede descargar, debatir y comentar.
 
-Proyecto Ciclovias Troncales Lima se muestra el avance del proyecto de una red de ciclovías conectadas con la las ciclovías actuales
+Proyecto Ciclovias Lima se muestra el avance del proyecto de una red de ciclovías conectadas con la las ciclovías actuales
 
 Somos muy felices de que más gente quiera contribuir al planeamiento interactivo y participativo de Ciclovías en el Perú
